@@ -1,2 +1,2 @@
-# Work for the 27/03
-You will this in the folder Unit2 the code with the dot py and another file to organize the different graphics that the code provides.
+# Work for the 11/05
+You will this in the folder Unit4 the notebook with all the methods as well as the input file as you requested
